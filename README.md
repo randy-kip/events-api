@@ -16,4 +16,4 @@ This app offers basic CRUD capabilities to the website.
 
 ## License
 
-[MIT](https://github.com/randy-04/group-4-event-listings-react-app/blob/main/LICENSE.md)
+[MIT](https://github.com/randy-kip/events-api/blob/main/LICENSE.md)
